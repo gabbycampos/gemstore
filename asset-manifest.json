@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gemstore/static/css/main.9c08f8e5.chunk.css",
+    "main.js": "/gemstore/static/js/main.c684cef2.chunk.js",
+    "main.js.map": "/gemstore/static/js/main.c684cef2.chunk.js.map",
+    "runtime~main.js": "/gemstore/static/js/runtime~main.f59a08c2.js",
+    "runtime~main.js.map": "/gemstore/static/js/runtime~main.f59a08c2.js.map",
+    "static/js/2.6b18c407.chunk.js": "/gemstore/static/js/2.6b18c407.chunk.js",
+    "static/js/2.6b18c407.chunk.js.map": "/gemstore/static/js/2.6b18c407.chunk.js.map",
+    "index.html": "/gemstore/index.html",
+    "precache-manifest.b9a348aa560b305c85640212a4b5394e.js": "/gemstore/precache-manifest.b9a348aa560b305c85640212a4b5394e.js",
+    "service-worker.js": "/gemstore/service-worker.js",
+    "static/css/main.9c08f8e5.chunk.css.map": "/gemstore/static/css/main.9c08f8e5.chunk.css.map"
+  }
+}

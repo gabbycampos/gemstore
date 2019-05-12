@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA,YACE,YACF,CAFA,sBACE,wBACF,CAFA,WACE,kBAAmB,CACnB,2BAA4B,CAC5B,iBAAkB,CAClB,iBAAmB,CACnB,sCACF,CACA,kBACE,UAAW,CACX,aAAc,CACd,gBAAkB,CAClB,kBAAoB,CACpB,oBACF,CACA,aACE,cACF,CAhBA,IACI,kBACJ","file":"main.9c08f8e5.chunk.css","sourcesContent":["nav {\n    margin-bottom: 10px;\n}"]}
